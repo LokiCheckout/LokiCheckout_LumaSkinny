@@ -11,10 +11,16 @@
         <referenceBlock name="pagebuilder.widget.initializer" remove="true"/>
         <referenceBlock name="cookie-status-check" remove="true"/>
         <referenceBlock name="theme.active.editor" remove="true"/>
+        <referenceBlock name="navigation.sections" remove="true"/>
         <referenceBlock name="google.maps.api" remove="true"/>
         <referenceBlock name="top.search" remove="true"/>
+        <referenceBlock name="catalog.topnav" remove="true"/>
         <referenceBlock name="minicart" remove="true"/>
         <referenceBlock name="authorization-link-login" remove="true"/>
         <referenceBlock name="form.subscribe" remove="true"/>
+        <referenceBlock name="compare-link-wrapper" remove="true"/>
+        <referenceBlock name="customer.section.config" remove="true"/>
+        <referenceBlock name="customer.data.invalidation.rules" remove="true"/>
+        <referenceBlock name="frontend-storage-manager" remove="true"/>
     </body>
 </page>
