@@ -9,11 +9,11 @@ Current status: Draft
 ## Installation
 Install this package via composer (assuming you have setup the `composer.yireo.com` repository correctly already):
 ```bash
-composer require yireo/magento2-loki-checkout-empty
+composer require yireo/magento2-loki-checkout-luma-skinny
 ```
 
 Next, enable this module:
 ```bash
-bin/magento module:enable Yireo_LokiCheckoutEmpty
+bin/magento module:enable Yireo_LokiCheckoutLumaSkinny
 ```
 
