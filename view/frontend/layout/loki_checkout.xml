@@ -8,6 +8,9 @@
     </head>
 
     <body>
+        <referenceBlock name="requirejs-config" remove="true"/>
+        <referenceBlock name="header" remove="true"/>
+        <referenceBlock name="minicart" remove="true"/>
         <referenceBlock name="pagebuilder.widget.initializer" remove="true"/>
         <referenceBlock name="cookie-status-check" remove="true"/>
         <referenceBlock name="theme.active.editor" remove="true"/>
