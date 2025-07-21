@@ -1,12 +1,12 @@
 {
-    "name": "yireo/magento2-loki-checkout-luma-skinny",
+    "name": "loki-checkout/magento2-luma-skinny",
     "version": "0.0.1",
     "description": "N/A",
     "keywords": ["loki-theme"],
     "type": "magento2-module",
     "require": {
         "magento/framework": "^103.0",
-        "yireo/magento2-loki-checkout": "~0.0 | ^1.0"
+        "loki-checkout/magento2-core": "~0.0 | ^1.0"
     },
     "license": "OSL-3.0",
     "autoload": {
@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Yireo\\LokiCheckoutLumaSkinny\\": ""
+            "LokiCheckout\\LumaSkinny\\": ""
         }
     }
 }

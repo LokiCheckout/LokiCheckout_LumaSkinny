@@ -1,6 +1,6 @@
 {
     "modules": [
-        "Yireo_LokiCheckout"
+        "LokiCheckout_Core"
     ],
     "components": [],
     "config": [],
