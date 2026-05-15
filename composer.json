@@ -1,7 +1,7 @@
 {
     "name": "loki-checkout/magento2-luma-skinny",
     "version": "0.0.1",
-    "description": "N/A",
+    "description": "Attempt to remove as many Luma non-checkout elements as possible",
     "keywords": [
         "loki-checkout",
         "loki-checkout-category-theme"
