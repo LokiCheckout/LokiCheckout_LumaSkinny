@@ -1,4 +1,5 @@
 {
+    "abandoned": true,
     "name": "loki-checkout/magento2-luma-skinny",
     "version": "0.0.1",
     "description": "Attempt to remove as many Luma non-checkout elements as possible",
