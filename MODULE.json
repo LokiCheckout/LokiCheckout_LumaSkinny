@@ -9,5 +9,7 @@
     "composer_name": "loki-checkout/magento2-luma-skinny",
     "sequence": [
         "LokiCheckout_Core"
-    ]
+    ],
+    "phpcs_severity": "1",
+    "phpstan_level": "9"
 }
